@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: f094385f363cd714bba388793a35780b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: FrontWheel
+    100002: FrontWheelFender
+    100004: motorbike_police
+    100006: //RootNode
+    100008: RearWheel
+    100010: BackLeftBlue
+    100012: BackLeftSignal
+    100014: BackRedLight
+    100016: BackRightBlue
+    100018: BackRightSignal
+    100020: BrakeLight
+    100022: FrontLeftBlue
+    100024: FrontLeftSignal
+    100026: FrontRightRed
+    100028: FrontRightSignal
+    100030: Steering
+    100032: HeadLight
+    400000: FrontWheel
+    400002: FrontWheelFender
+    400004: motorbike_police
+    400006: //RootNode
+    400008: RearWheel
+    400010: BackLeftBlue
+    400012: BackLeftSignal
+    400014: BackRedLight
+    400016: BackRightBlue
+    400018: BackRightSignal
+    400020: BrakeLight
+    400022: FrontLeftBlue
+    400024: FrontLeftSignal
+    400026: FrontRightRed
+    400028: FrontRightSignal
+    400030: Steering
+    400032: HeadLight
+    2300000: FrontWheel
+    2300002: FrontWheelFender
+    2300004: motorbike_police
+    2300006: RearWheel
+    2300008: BackLeftBlue
+    2300010: BackLeftSignal
+    2300012: BackRedLight
+    2300014: BackRightBlue
+    2300016: BackRightSignal
+    2300018: BrakeLight
+    2300020: FrontLeftBlue
+    2300022: FrontLeftSignal
+    2300024: FrontRightRed
+    2300026: FrontRightSignal
+    2300028: Steering
+    2300030: HeadLight
+    3300000: FrontWheel
+    3300002: FrontWheelFender
+    3300004: motorbike_police
+    3300006: RearWheel
+    3300008: BackLeftBlue
+    3300010: BackLeftSignal
+    3300012: BackRedLight
+    3300014: BackRightBlue
+    3300016: BackRightSignal
+    3300018: BrakeLight
+    3300020: FrontLeftBlue
+    3300022: FrontLeftSignal
+    3300024: FrontRightRed
+    3300026: FrontRightSignal
+    3300028: Steering
+    3300030: HeadLight
+    4300000: motorbike_police
+    4300002: FrontWheelFender
+    4300004: RearWheel
+    4300006: FrontWheel
+    4300008: BrakeLight
+    4300010: BackRedLight
+    4300012: BackRightSignal
+    4300014: BackLeftSignal
+    4300016: BackRightBlue
+    4300018: BackLeftBlue
+    4300020: FrontLeftBlue
+    4300022: FrontRightRed
+    4300024: FrontRightSignal
+    4300026: FrontLeftSignal
+    4300028: Steering
+    4300030: HeadLight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
